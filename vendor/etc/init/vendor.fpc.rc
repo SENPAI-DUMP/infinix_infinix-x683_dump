@@ -1,0 +1,5 @@
+on post-fs-data
+  chown system system /sys/bus/platform/drivers/fpc_spi/odm:fingerprint/clk_enable
+  chown system system /sys/bus/platform/drivers/fpc_spi/odm:fingerprint/wakeup_enable
+  chown system system /sys/bus/platform/drivers/fpc_spi/odm:fingerprint/irq
+  chown system system /sys/bus/platform/drivers/fpc_spi/odm:fingerprint/hw_reset

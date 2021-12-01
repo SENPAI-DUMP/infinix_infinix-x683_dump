@@ -1,0 +1,80 @@
+{
+    "NIGHT": {
+        "NIGHT_BASE": {
+            "HEAD_INFO": {
+                "TRIGGER_GAIN_1": 100,
+                "TRIGGER_GAIN_2": 400,
+                "TRIGGER_GAIN_3": 1000,
+                "TRIGGER_GAIN_4": 2000,
+                "TRIGGER_GAIN_5": 4000,
+                "TRIGGER_GAIN_6": 8000
+            },
+            "PROFILE_1": {
+                "FUSION_INTENSITY": 0.24,
+                "YDENOISE_HF": 0.2,
+                "YDENOISE_MF": 0.1,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.1,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.2,
+                "GAMMA": 0.3,
+                "BRIGHTNESS": 0.3
+            },
+            "PROFILE_2": {
+                "FUSION_INTENSITY": 0.25,
+                "YDENOISE_HF": 0.3,
+                "YDENOISE_MF": 0.1,
+                "YDENOISE_LF": 0.1,
+                "SHARPEN_INTENSITY": 0.08,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 0.3,
+                "BRIGHTNESS": 0.3
+            },
+            "PROFILE_3": {
+                "FUSION_INTENSITY": 0.27,
+                "YDENOISE_HF": 0.5,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.08,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 0.3,
+                "BRIGHTNESS": 0.3
+            },
+            "PROFILE_4": {
+                "FUSION_INTENSITY": 0.3,
+                "YDENOISE_HF": 0.5,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 1.0,
+                "UVDENOISE_INTENSITY": 0.3,
+                "GAMMA": 0.3,
+                "BRIGHTNESS": 0.3
+            },
+            "PROFILE_5": {
+                "FUSION_INTENSITY": 0.33,
+                "YDENOISE_HF": 0.7,
+                "YDENOISE_MF": 0.3,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 0.8,
+                "UVDENOISE_INTENSITY": 0.4,
+                "GAMMA": 0.3,
+                "BRIGHTNESS": 0.3
+            },
+            "PROFILE_6": {
+                "FUSION_INTENSITY": 0.35,
+                "YDENOISE_HF": 0.81,
+                "YDENOISE_MF": 0.5,
+                "YDENOISE_LF": 0.3,
+                "SHARPEN_INTENSITY": 0.07,
+                "SATURATION": 0.8,
+                "UVDENOISE_INTENSITY": 0.5,
+                "GAMMA": 0.3,
+                "BRIGHTNESS": 0.3
+            }
+        }
+    }
+}
