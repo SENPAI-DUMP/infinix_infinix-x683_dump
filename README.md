@@ -1,0 +1,14 @@
+# sys_tssi_64_infinix-user 10 QP1A.190711.020 84460 release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: Infinix-X683
+- flavor: sys_tssi_64_infinix-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 210305V332
+- tags: release-keys
+- fingerprint: Infinix/X683-OP/Infinix-X683:10/QP1A.190711.020/210301V288:user/release-keys
+- is_ab: false
+- brand: Infinix
+- branch: sys_tssi_64_infinix-user-10-QP1A.190711.020-84460-release-keys
+- repo: infinix_infinix-x683_dump
